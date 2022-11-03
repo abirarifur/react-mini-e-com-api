@@ -1,0 +1,4 @@
+MONGO_URL = "mongodb://abir:abir1234@mycluster-shard-00-00.9maol.mongodb.net:27017,mycluster-shard-00-01.9maol.mongodb.net:27017,mycluster-shard-00-02.9maol.mongodb.net:27017/?ssl=true&replicaSet=atlas-rtgv0f-shard-0&authSource=admin&retryWrites=true&w=majority"
+
+PASSWORD_SEC = adasdsfasfasdf
+JWT_SEC = asdsalkhjasdkfbaksjdfks
